@@ -56,7 +56,7 @@
     "EXTERNAL",
     "EC2"
   ],
-  "taskDefinitionArn": "arn:aws:ecs:us-east-1:583729268142:task-definition/membrane-task:3",
+  "taskDefinitionArn": "arn:aws:ecs:us-east-1:583729268142:task-definition/membrane-task:5",
   "family": "membrane-task",
   "requiresAttributes": [
     {
@@ -79,7 +79,7 @@
   "networkMode": "bridge",
   "runtimePlatform": null,
   "cpu": null,
-  "revision": 3,
+  "revision": 5,
   "status": "ACTIVE",
   "inferenceAccelerators": null,
   "proxyConfiguration": null,
